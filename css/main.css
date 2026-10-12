@@ -963,6 +963,13 @@ display: none;
   object-fit: cover;
 }
 
+.map-block {
+  background-image: url("../img/map.webp");
+  min-height: 700px;
+  background-size: cover;
+  background-position: center center;
+}
+
 @media (min-width: 768px) {
     .col-sm-5ths {
         width: 20%;
